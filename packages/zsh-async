@@ -1,0 +1,6 @@
+{
+  "name": "zsh-async",
+  "repository": "https://github.com/mafredri/zsh-async",
+  "type": "plugin",
+  "init": {"zsh-async.plugin.zsh": "zsh-async"}
+}

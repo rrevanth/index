@@ -1,0 +1,6 @@
+{
+  "name": "zsh-mkc",
+  "repository": "https://github.com/caarlos0/zsh-mkc",
+  "type": "plugin",
+  "init": {"zsh-mkc.plugin.zsh": "zsh-mkc"}
+}

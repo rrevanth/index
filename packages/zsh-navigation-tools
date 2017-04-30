@@ -1,0 +1,6 @@
+{
+  "name": "zsh-navigation-tools",
+  "repository": "https://github.com/psprint/zsh-navigation-tools",
+  "type": "plugin",
+  "init": {"zsh-navigation-tools.plugin.zsh": "zsh-navigation-tools"}
+}

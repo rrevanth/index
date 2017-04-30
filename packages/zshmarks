@@ -1,8 +1,6 @@
 {
   "name": "zshmarks",
-  "description": "Folder bookmark plugin",
   "repository": "https://github.com/rrevanth/zshmarks",
-  "author": "Revanth Revoori <http://rrevanth.github.io/>",
   "type": "plugin",
   "init": {"zshmarks.plugin.zsh": "zshmarks"}
 }

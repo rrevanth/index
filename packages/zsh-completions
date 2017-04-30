@@ -1,0 +1,6 @@
+{
+  "name": "zsh-completions",
+  "repository": "https://github.com/zsh-users/zsh-completions",
+  "type": "plugin",
+  "init": {"zsh-completions.plugin.zsh": "zsh-completions"}
+}

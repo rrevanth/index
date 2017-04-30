@@ -1,0 +1,6 @@
+{
+  "name": "jvm",
+  "repository": "https://github.com/caarlos0/jvm",
+  "type": "plugin",
+  "init": {"jvm.plugin.zsh": "jvm"}
+}

@@ -1,0 +1,6 @@
+{
+  "name": "zsh-wakatime",
+  "repository": "https://github.com/wbinglee/zsh-wakatime",
+  "type": "plugin",
+  "init": {"zsh-wakatime.plugin.zsh": "zsh-wakatime"}
+}
